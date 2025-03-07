@@ -1,0 +1,9 @@
+name: grocery_app
+packages:
+  - "packages/**"
+  - "features/**"
+scripts:
+  analyze:
+    exec: flutter analyze
+  test:
+    exec: flutter test

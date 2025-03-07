@@ -1,0 +1,14 @@
+name: presentation
+description: widgets, screens, và state management.
+version: 1.0.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  domain:
+    path: packages/domain
+  data:
+    path: packages/data
