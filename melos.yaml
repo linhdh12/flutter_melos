@@ -1,7 +1,7 @@
 name: grocery_app
 packages:
-  - "packages/**"
-  - "features/**"
+  - packages/*
+  # - "packages/**"
 scripts:
   analyze:
     exec: flutter analyze

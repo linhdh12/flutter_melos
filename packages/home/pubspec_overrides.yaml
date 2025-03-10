@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: wishlist,cart
+dependency_overrides:
+  wishlist:
+    path: ..\\wishlist
+  cart:
+    path: ..\\cart
